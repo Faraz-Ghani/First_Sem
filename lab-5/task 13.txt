@@ -1,0 +1,11 @@
+task no 13
+if
+x=2
+y=5
+z=0
+then find values of
+a) x==2   	value =1 condition true
+b) x!=5   	value =1 condition true
+c) x!=5 && y>=5	value =1 condition true
+d) z!=0 || x==2 value =1 condition true becuase of or
+e) !(y<10)      value =0 condition false because of not
