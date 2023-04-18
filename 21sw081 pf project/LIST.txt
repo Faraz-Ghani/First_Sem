@@ -1,0 +1,27 @@
+   
+ID   NAME         PRICE 
+                        
+0    Peach        25
+1    Banana       15    
+2    Apple        20      
+3    Dragonfruit  50     
+4    Mango        35
+5    Beef         250
+6    Mutton       350
+7    Coconut      170   
+8    Peanut       150
+9    Raisin       150
+10   Pineapple    90
+11   Water Bottle 120
+12   Pen          15 
+13   Notebook     100
+14   Pencil       10 
+15   Textbook     150
+16   Eraser       10 
+17   School Bag   700     
+18   Hand Bag     950
+19   Laptop Bag   850    
+20   Marker       35 
+21   Color Pencil 12      
+22   Sharpner     10
+23   Highlighter  35

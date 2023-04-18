@@ -1,0 +1,12 @@
+				__________________        
+				                          
+				ANUSHA'S SUPER MARKET     
+				__________________        
+				Mr/Mrs.faraz Your Bill is : 
+
+
+				 ID     AMOUNT    PRICE 
+				 4         3       35$ 
+				 TOTAL	       105
+
+
